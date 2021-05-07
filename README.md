@@ -1,2 +1,2 @@
 # CSC-225
-# Algorithms and Data Structures: I
+Algorithms and Data Structures: I
